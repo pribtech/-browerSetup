@@ -1,0 +1,13 @@
+{ "name": "browserSetup"
+, "description": "browser setup for node app"
+,"version": "0.0.1"
+,"main": "index.js"
+,"repository" :
+	{"type" : "git"
+	,"url" : "https://github.com/pribtech/browserSetup.git"
+	 }
+ ,"keywords":  ["javascript","node","html"]
+,"author": "Peter Prib"
+,"bugs": "https://github.com/pribtech/browserSetup/issues"
+,"license": "Apache-2.0"
+}
