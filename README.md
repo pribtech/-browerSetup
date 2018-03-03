@@ -1,7 +1,7 @@
-# -browerSetup
+# browserSetup
 script to setup htmp
 
-
+Initisation of browser 
 
 e.g.
 
